@@ -1,0 +1,4 @@
+github.com/bwmarrin/snowflake v0.3.0 h1:xm67bEhkKh6ij1790JB83OujPR5CzNe8QuQqAgISZN0=
+github.com/bwmarrin/snowflake v0.3.0/go.mod h1:NdZxfVWX+oR6y2K0o6qAYv6gIOP9rjG0/E9WsDpxqwE=
+github.com/kitech/php-go v0.0.0-20190920043555-ea42dba879b3 h1:eBEhc7wf+XE4spHNlpL94TwEU2LebWbRxdxizpGLkLY=
+github.com/kitech/php-go v0.0.0-20190920043555-ea42dba879b3/go.mod h1:+zlQgawixsrD0Uet4GmNtXOsRfp59/pvE/RAd7yLWow=
