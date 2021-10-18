@@ -1,4 +1,4 @@
-module dlxmedia/snowflake
+module dlxmedia/snowflake-json
 
 go 1.16
 
