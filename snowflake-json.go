@@ -3,14 +3,15 @@ package main
 import (
   "encoding/json"
   "flag"
-	"fmt"
-	"github.com/bwmarrin/snowflake"
+  "fmt"
+  "math/rand"
+  "github.com/bwmarrin/snowflake"
 )
 
 func main() {
   snowflake.Epoch = 1545264000000
 
-  node, err := snowflake.NewNode(1)
+  node, err := snowflake.NewNode(int64(rand.Intn(100)))
   if err != nil {
     fmt.Println(err)
     return
